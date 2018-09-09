@@ -1,4 +1,4 @@
-var wordBank = ['red', 'blue'];
+var wordBank = ['lantern', 'pumpkin'];
 var wins = 0;
 var loss = 0;
 var wrongLetter = []; //
@@ -24,9 +24,8 @@ function startGame(){
         // reset
         function reset(){
         wrongLetter = [];
-        guessesLeft = 3;
-        winCounter = 0;
-        startGame()
+        guessesLeft = 8;
+        
         }
         
 
