@@ -1,0 +1,50 @@
+body{
+    background-color: #000000;
+}
+
+
+
+#main-header{
+    text-align: center;
+    color: #990000;
+}
+
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 200px;    
+
+}
+
+#container{
+    text-align: center;
+    color: #990000;
+}
+
+
+#place-holder{
+    text-align: center;
+    padding: 20px;
+    color: #990000;
+}
+
+
+#place-holder2{
+    text-align: center;
+    color: #990000
+}
+
+
+h3{
+    text-align: center;
+    color: #990000;
+}
+
+p{
+    color: #990000;
+}
+
+
